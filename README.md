@@ -1,3 +1,7 @@
+<div align=center><src ="https://pic4.zhimg.com/v2-955997706de95754c0ad894f0c9e16d9_1200x500.jpg"/></div>
+
+<img src="https://user-images.githubusercontent.com/26399680/47980314-0e3f1700-e102-11e8-8857-e3436ecc8beb.png" alt="logo" width="140" height="140" align="right">
+
 # UnblockNeteaseMusic_GUI（转载自用/持续更新）
 
 ## 软件介绍
