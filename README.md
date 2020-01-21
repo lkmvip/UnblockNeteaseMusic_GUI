@@ -16,7 +16,7 @@
 
 原GUI作者开放地址：https://zhuanlan.zhihu.com/p/79631291
 
-原GUI作者：[@西柚秀·知乎](https://www.zhihu.com/people/xiu2/activities)
+原GUI作者：[@西柚秀·知乎](https://www.zhihu.com/people/xiu2/activities)  [XIU2·GitHub](https://github.com/XIU2)
 
 原UnblockNeteaseMusic核心功能作者：[@Nzix](https://github.com/nondanee)
 
