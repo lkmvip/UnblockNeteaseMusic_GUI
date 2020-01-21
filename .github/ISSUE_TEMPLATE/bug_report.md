@@ -1,38 +1,39 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
+title: "[BUG]"
+labels: Bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**描述 bug**
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+简要描述所遇到的bug
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**如何复现**
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+说明您在进行了怎样的操作后出现了bug：
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+1. 
+2. 
+3. 
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**预期行为**
 
-**Additional context**
-Add any other context about the problem here.
+简要描述进行以上操作后预期的脚本行为
+
+**截图**
+
+如果可以，请添加屏幕截图以帮助解释您的问题
+
+**环境**
+
+ - 系统：[如 Windows 10 1809]
+ - 浏览器：[如 Chrome 74.0.3729.157，无关则删除]
+ - 程序版本：[如 5.0.0.0 .Net Core SelfContained x64]
+ 
+**其它内容**
+
+在此添加有关此问题的任何其它内容。
+最好能贴上相关的日志
