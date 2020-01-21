@@ -2,19 +2,23 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: ''
+labels: Enhancement
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**您的功能请求是否与 BUG 有关？ 请描述一下。**
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+简明扼要地描述了问题所在
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**描述您想要的解决方案**
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+简明扼要地描述您想要发生的事情
+
+**描述您考虑过的替代方案**
+
+对您考虑的任何替代解决方案或功能的简明扼要描述
+
+**其它内容**
+
+在此处添加有关功能请求的任何其它内容或屏幕截图
